@@ -6,7 +6,7 @@ function companyPay(Hrs, EHrs){
     return total;
 
 };
-companyPay(4, 0);
+console.log(companyPay(4, 0));
 /*
 Hrs = hours
 EHrs = extra hours
